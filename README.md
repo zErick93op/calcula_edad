@@ -1,5 +1,5 @@
 # CALCULA TU EDAD EN EL AÑO QUE PONGAS
-Este Poryecto puedes calcular la edad en el año que tu desees, es un script funcional (Pese a algunos detalles).
+Este Proyecto puedes calcular la edad en el año que tu desees, es un script funcional (Pese a algunos detalles).
 
 #Instalacion 
 
